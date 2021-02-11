@@ -11,6 +11,7 @@ def find_all_links(link, headers, tag, class_name):
     return items
 
 
+
 def product_parser(product_list, atr, name, price ):
     for item in product_list:
         data = item.get(atr)
