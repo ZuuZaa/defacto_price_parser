@@ -1,3 +1,4 @@
+#for request headers
 headers = {
     'Access-Control-Allow-Origin': '*',
     'Access-Control-Allow-Methods': 'GET',
